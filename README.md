@@ -115,5 +115,3 @@ You can customize the types of GitHub events you wish to track. Currently, the a
 You can extend this list by adding more event types and their handling logic to the code.
 
 ---
-
-This `README.md` file provides a clear overview of how to set up and use the project, along with details on how it works, technologies involved, and example outputs. Make sure to adjust any sections to fit your specific project needs.
